@@ -4,7 +4,3 @@ Workshop Title: [Data use and reuse: Unlocking the Potential of Frictionless Dat
 ## Description about data
 * Weather Data :
 The dataset is taken from CORGIS Dataset for the presentation. Here is the [link](https://corgis-edu.github.io/corgis/csv/weather/). Only 100 rows are kept for simplicity purpose.
-
-* Cities Data :
-This dataset is taken from [here](https://www.kaggle.com/datasets/sergejnuss/united-states-cities-database)
-
