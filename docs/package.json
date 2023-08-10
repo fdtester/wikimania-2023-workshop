@@ -1,1 +1,35 @@
+{
+   "name":"datatest-package",
+   "title":"Data Test Package",
+   "created":"1985-04-12T23:20:50.52Z",
+   "description":"Under the National Oceanic and Atmospheric Administration, the National Weather Service provides daily weather reports for cities across the county. This is done through the use of 122 different Weather Forcast Offices throughout the country. These WFOs are responsible for the daily weather reports for serveral cities throughout their region of coverage. This data set takes the information from these WFO reports for cities across the country and summarizes it at the weekly level for all of 2016.",
+   "contributors":[
+      {
+         "title":"Austin Cory Bart",
+         "role":"author",
+      }
+   ],
+   "keywords":[
+      "weather",
+      "rainfall"
+   ],
+   "organization":"frictionless-organization",
+   "licenses":[
+            {
+               "name":"2022 CORGIS Datasets Project",
+               "title":"2022 CORGIS Datasets Project",
+               "path":"https://corgis-edu.github.io/corgis/csv/weather/"
+            }
+   ],
+   "resources":[
+      {
+         "name":"weather",
+         "path":"weather.csv"
+      },
+      {
+         "name":"cities",
+         "path":"cities.csv"
+      }
+   ]
+}
 
